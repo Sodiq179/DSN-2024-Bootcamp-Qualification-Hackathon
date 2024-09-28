@@ -1,0 +1,10 @@
+catboost==1.2.7
+lightgbm==4.5.0
+numpy==1.26.4
+optuna==4.0.0
+pandas==2.1.4
+pandas-datareader==0.10.0
+pandas-gbq==0.23.1
+pandas-stubs==2.1.4.231227
+scikit-learn==1.5.2
+xgboost==2.1.1
