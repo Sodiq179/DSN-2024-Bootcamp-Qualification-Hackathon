@@ -12,7 +12,7 @@
 
 <p  align="center">
 
-<img  src="images/nearth_disease.jpg"  alt="Hearth Disease"  height=312  width=820/>
+<img  src="images/hearth_disease.jpg"  alt="Hearth Disease"  height=312  width=820/>
 
 </p> 
 
